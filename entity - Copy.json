@@ -1,0 +1,266 @@
+{
+    "ClassType": "Battery_Template",
+    "Intent": "New",
+    "PrivateID": "70911caf-e32c-4b0e-b631-59ca03a83785",
+    "PublicID": "70911caf-e32c-4b0e-b631-59ca03a83785",
+    "HighWatermark": "6968fecb-4792-4ce7-9492-49d53910d4cb",
+    "Name": "Child Entity sadasdas sad",
+    "LastEditUsername": "Uday Patil",
+    "LastEditDateTime": "2019-12-02T16:15:38.46",
+    "ItemElements": [
+      {
+        "Name": "Effective_Start_Date",
+        "Values": [
+          {
+            "Value": "2019-08-29"
+          }
+        ],
+        "Type": "Date",
+        "Intent": "New"
+      },
+      {
+        "Name": "Available_Start_Date",
+        "Values": [
+          {
+            "Value": "2019-08-29"
+          }
+        ],
+        "Type": "Date",
+        "Intent": "New"
+      },
+      {
+        "Name": "Effective_End_Date",
+        "Type": "Date",
+        "Intent": "New"
+      },
+      {
+        "Name": "Available_End_Date",
+        "Type": "Date",
+        "Intent": "New"
+      },
+      {
+        "Name": "Security_Tag",
+        "Type": "Any",
+        "Intent": "New"
+      },
+      {
+        "Name": "Business_ID",
+        "Values": [
+          {
+            "Value": "11006458"
+          }
+        ],
+        "Type": "String",
+        "Intent": "New"
+      },
+      {
+        "Name": "Name",
+        "Values": [
+          {
+            "Value": "Child Entity newsdsa"
+          }
+        ],
+        "Type": "String",
+        "Intent": "New"
+      },
+      {
+        "Name": "Description",
+        "Values": [
+          {
+            "Value": "Some description"
+          }
+        ],
+        "Type": "String",
+        "Intent": "New"
+      },
+      {
+        "Name": "Category_ID",
+        "Values": [
+          {
+            "Value": "20"
+          }
+        ],
+        "Type": "Int",
+        "Intent": "New"
+      },
+      {
+        "Name": "Sigma_Relation_Overrides",
+        "Type": "Any",
+        "Coupling": "Tight",
+        "Intent": "New"
+      },
+      {
+        "Name": "Sigma_GrpCard_Overrides",
+        "Type": "Any",
+        "Coupling": "Tight",
+        "Intent": "New"
+      },
+      {
+        "Name": "ConFacOver",
+        "Type": "Any",
+        "Coupling": "Tight",
+        "Intent": "New"
+      },
+      {
+        "Name": "MappingRules",
+        "Type": "Any",
+        "Coupling": "Tight",
+        "Intent": "New"
+      },
+      {
+        "Name": "SigmaEntLinks",
+        "Type": "Any",
+        "Coupling": "Tight",
+        "Intent": "New"
+      },
+      {
+        "Name": "Product_To_Product",
+        "Type": "Any",
+        "Coupling": "Tight",
+        "Intent": "New"
+      },
+      {
+        "Name": "Product_To_Charge_Group",
+        "Type": "Any",
+        "Coupling": "Tight",
+        "Intent": "New"
+      },
+      {
+        "Name": "Product_To_Discount",
+        "Type": "Any",
+        "Coupling": "Tight",
+        "Intent": "New"
+      },
+      {
+        "Name": "Product_To_Charge",
+        "Type": "Any",
+        "Coupling": "Tight",
+        "Intent": "New"
+      },
+      {
+        "Name": "Product_To_Discount_Group",
+        "Type": "Any",
+        "Coupling": "Tight",
+        "Intent": "New"
+      },
+      {
+        "Name": "Product_To_Charge_Adjustment_Relation",
+        "Type": "Any",
+        "Coupling": "Tight",
+        "Intent": "New"
+      },
+      {
+        "Name": "Product_To_Discount_Charge",
+        "Type": "Any",
+        "Coupling": "Tight",
+        "Intent": "New"
+      },
+      {
+        "Name": "Max_Cust_Portfolio_Instances",
+        "Type": "Int",
+        "Intent": "New"
+      },
+      {
+        "Name": "Min_Cust_Portfolio_Instances",
+        "Type": "Int",
+        "Intent": "New"
+      },
+      {
+        "Name": "TRequired_Entities",
+        "Type": "Any",
+        "Coupling": "Tight",
+        "Intent": "New"
+      },
+      {
+        "Name": "TIncompatible_Entities",
+        "Type": "Any",
+        "Coupling": "Tight",
+        "Intent": "New"
+      },
+      {
+        "Name": "TSales_Channel_Classification",
+        "Type": "Any",
+        "Intent": "New"
+      },
+      {
+        "Name": "TDemographic_Classification",
+        "Type": "Any",
+        "Intent": "New"
+      },
+      {
+        "Name": "TGeographic_Classification",
+        "Type": "Any",
+        "Intent": "New"
+      },
+      {
+        "Name": "TChild_Group_Cardinality_Rule",
+        "Type": "Any",
+        "Coupling": "Tight",
+        "Intent": "New"
+      },
+      {
+        "Name": "Product_To_Cost",
+        "Type": "Any",
+        "Coupling": "Tight",
+        "Intent": "New"
+      },
+      {
+        "Name": "Product_To_Cost_Adjustment_Relation",
+        "Type": "Any",
+        "Coupling": "Tight",
+        "Intent": "New"
+      },
+      {
+        "Name": "CBDiscounts",
+        "Type": "Any",
+        "Coupling": "Tight",
+        "Intent": "New"
+      },
+      {
+        "Name": "CBPricing",
+        "Type": "Any",
+        "Coupling": "Tight",
+        "Intent": "New"
+      },
+      {
+        "Name": "Voltage",
+        "Values": [
+          {
+            "Value": "1.5"
+          }
+        ],
+        "Type": "String",
+        "Intent": "New"
+      },
+      {
+        "Name": "Dimensions_Mm",
+        "Values": [
+          {
+            "Value": "asdf"
+          }
+        ],
+        "Type": "String",
+        "Intent": "New"
+      },
+      {
+        "Name": "Technology",
+        "Values": [
+          {
+            "Value": "Lithium"
+          }
+        ],
+        "Type": "String",
+        "Intent": "New"
+      },
+      {
+        "Name": "Capacity_Mah",
+        "Type": "String",
+        "Intent": "New"
+      },
+      {
+        "Name": "Weight_G",
+        "Type": "String",
+        "Intent": "New"
+      }
+    ]
+  }
